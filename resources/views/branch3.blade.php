@@ -9,8 +9,8 @@
 <h1>  Group2</h1>
 
 <ul>
-    <li>  your name</li>
-    <li>  your name</li>
+    <li>  Aghigh Farahnak</li>
+    <li>  Erfan Mojtabazadeh</li>
     <li>  your name</li>
 </ul>
 

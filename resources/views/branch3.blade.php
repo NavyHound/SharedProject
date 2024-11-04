@@ -9,9 +9,12 @@
 <h1>  Group2</h1>
 
 <ul>
-    <li>  your name</li>
-    <li>  your name</li>
-    <li>  your name</li>
+    <li>  Aghigh Farhank</li>
+    <li>  Erfan Mojtabazadeh</li>
+    <li>  Pedram oskouain</li>
+    <li>  Mojtaba khaleghi</li>
+    <li>  Amirmohamad sepehrifar</li>
+    <li>  sana mansouri</li>
 </ul>
 
 </body>
